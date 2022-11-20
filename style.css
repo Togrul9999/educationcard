@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 500px;
+    height: 300px;
+    background-color:bisque;
+    border-radius: 15px;
+}
+.education{
+    color: dimgray;
+    margin-left: 10px;
+}
+.adnsu{
+    margin-left: 10px;
+   
+}
+.b0685{
+    margin-top: -14px;
+    margin-left: 263px;
+}
+.itif{
+    
+    margin-left:263px ;
+}
+.chip{
+    width: 40px;
+    height: 30px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.ad-name{
+    color: dimgray;
+    margin-top: 5px;
+    margin-left: 20px;
+
+}
+.name{
+    margin-left: 80px;
+}
+.soyad-surname{
+    color: dimgray;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.surname{
+    margin-left: 80px;
+}
+.dogum-tarixi{
+    color: dimgray;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.birth{
+    margin-left: 22px;
+}
+.qebulolma{
+    color: dimgray;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.year{
+    margin-left: 22px;
+}
+.fin-pin{
+    color: dimgray;
+    margin-top: -78px;
+    margin-left: 258px;
+}
+.fin{
+    margin-top: -1px;
+    margin-left: 260px;
+}
+.bitirme{
+    color: dimgray;
+    margin-top: -40px;
+    margin-left: 260px;
+}
+.graduation{
+    margin-left: 266px;
+    margin-top: 0px;
+}
+.adnsu-logo{
+    width: 90px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: -9px;
+    margin-left: 388px;
+}
+/* .profile{
+    width: 80px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
+} */
